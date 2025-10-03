@@ -1,2 +1,1 @@
-# state_estimation_for_WDSs
-
+This repository contains code accompanying the manuscript "Scalable Online Constrained State Estimation for Digital Twin Applications in Water Distribution Systems"
