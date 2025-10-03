@@ -1,0 +1,44 @@
+Logger_ID,Logger_Type,Data_Type,Node/Link,DMA_Allocation,Notes
+Logger_01_i,InfrasenseLabs,Pressure [m],node_0469,DMA2,PRV inlet
+Logger_01_o,InfrasenseLabs,Pressure [m],node_0468,DMA2,PRV outlet
+Logger_01_f,InfrasenseLabs,Flow [L/s],link_2214,DMA2,PRV flow
+Logger_02_i,InfrasenseLabs,Pressure [m],node_0684,DMA1,PSV inlet
+Logger_02_o,InflowSense,Pressure [m],node_0683,DMA2,PSV outlet
+Logger_02_f,InfrasenseLabs,Flow [L/s],link_2605,DMA1/DMA2,PSV flow
+Logger_03_i,InflowSense,Pressure [m],node_0837,DMA1,PRV inlet
+Logger_03_o,ClaVal,Pressure [m],node_0836,DMA1,PRV outlet
+Logger_03_f,ClaVal,Flow [L/s],link_2312,DMA1,PRV flow
+Logger_04_i,InfrasenseLabs,Pressure [m],node_1420,DMA1,PSV inlet
+Logger_04_o,InfrasenseLabs,Pressure [m],node_1421,DMA2,PSV outlet
+Logger_04_f,InfrasenseLabs,Flow [L/s],link_2606,DMA1/DMA2,PSV flow
+Logger_05_i,InfrasenseLabs,Pressure [m],node_1901,DMA1,PRV inlet
+Logger_05_o,InfrasenseLabs,Pressure [m],node_1900,DMA1,PRV outlet
+Logger_05_f,InfrasenseLabs,Flow [L/s],link_2602,DMA1,PRV flow
+Logger_06,InflowSense,Pressure [m],node_1925,DMA2,
+Logger_07,InflowSense,Pressure [m],node_1938,DMA2,
+Logger_08,InflowSense,Pressure [m],node_1961,DMA2,
+Logger_09,InflowSense,Pressure [m],node_1971,DMA2,
+Logger_10,InflowSense,Pressure [m],node_1983,DMA1,
+Logger_11,InflowSense,Pressure [m],node_0354,DMA1,
+Logger_12,InflowSense,Pressure [m],node_2012,DMA2,
+Logger_13,InflowSense,Pressure [m],node_2046,DMA2,
+Logger_14,InflowSense,Pressure [m],node_2113,DMA1,
+Logger_15,InflowSense,Pressure [m],node_0785,DMA2,
+Logger_16,InflowSense,Pressure [m],node_2188,DMA1,
+Logger_17,InflowSense,Pressure [m],node_2197,DMA2,
+Logger_18,InflowSense,Pressure [m],node_2210,DMA1,
+Logger_19,InflowSense,Pressure [m],node_2243,DMA2,
+Logger_20,InflowSense,Pressure [m],node_2265,DMA1,
+Logger_21,InflowSense,Pressure [m],node_2285,DMA2,
+Logger_22,InflowSense,Pressure [m],node_1194,DMA1,
+Logger_23,InflowSense,Pressure [m],node_1202,DMA1,
+Logger_24,InflowSense,Pressure [m],node_2354,DMA2,
+Logger_25,InflowSense,Pressure [m],node_2428,DMA1,
+Logger_26,InflowSense,Pressure [m],node_2440,DMA2,
+Logger_27,InflowSense,Pressure [m],node_2441,DMA2,
+Logger_28,InflowSense,Pressure [m],node_1738,DMA2,
+Logger_29,InflowSense,Pressure [m],node_2485,DMA1,
+Logger_30,InflowSense,Pressure [m],node_1781,DMA1,
+Logger_31,InflowSense,Pressure [m],node_1876,DMA1,
+Logger_32,InflowSense,Pressure [m],node_2535,DMA1,
+Logger_33,BristolWater,Flow [L/s],link_0354,DMA2,
